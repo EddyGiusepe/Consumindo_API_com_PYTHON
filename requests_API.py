@@ -9,9 +9,9 @@ import os
 # A seguir: o comando limpa o terminal depois de rodar o Script
 # os.system('clear')
 
-print("######################################")
+print("##############################################")
 print("## Dados respeito ao CEP solicitado ##")
-print("######################################")
+print("##############################################")
 print("")
 cep = input("Digite o CEP (número de apenas 8 dígitos):")
 r = requests.get("https://viacep.com.br/ws/{}/json/".format(cep))
