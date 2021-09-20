@@ -1,5 +1,5 @@
 # Consumindo_API_com_PYTHON
-Neste script iremos consumir uma API usando Python. Basicamente digitaremos o CEP e  obteremos os Dados com respeito ai CEP digitado.
+Neste script iremos consumir uma API usando Python. Basicamente digitaremos o CEP e  obteremos os Dados com respeito ao CEP digitado.
 
 
 O link de exemplo é mostrado a seguir:
